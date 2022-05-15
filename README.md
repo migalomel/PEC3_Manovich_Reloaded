@@ -29,7 +29,7 @@ Voy a intentar explicarlo a través de dos ejemplos que utilizan la realidad aum
 
 ## Re-descubriendo la hibridacion: Chromville
 
-<img src="https://github.com/migalomel/PEC3_Manovich_Reloaded/blob/main/H%C3%ADbrido.png" />
+<img src="https://github.com/migalomel/PEC3_Manovich_Reloaded/blob/main/LogoChromvilleApp.png" />
 
 Chromville es un programa educativo basado en las clásicas láminas para colorear. Podemos acudir a su sitio principal https://chromville.com, donde podemos seleccionar decenas de ellas, que ilustran escenas infantiles con los personajes creados por la marca. Estas láminas podemos imprimirlas para después pintarlas con lápices de colores.
 
