@@ -8,7 +8,7 @@ Autor: Miguel Alonso
 
 Fecha: 7 de Mayo de 2022
 
-<img src="https://raw.githubusercontent.com/migalomel/PEC3_Manovich_Reloaded/main/LogoChromvilleApp.png" /> 
+<img src="https://github.com/migalomel/PEC3_Manovich_Reloaded/blob/main/H%C3%ADbrido.png" /> 
 
 
 ## Planteamiento
