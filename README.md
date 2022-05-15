@@ -48,6 +48,8 @@ Chromville es un claro ejemplo de la hibridación apuntada por Manovich, en una 
 
 ## Re-descubriendo la hibridacion: Realidad Aumentada de Google
 
+<img src="https://github.com/migalomel/PEC3_Manovich_Reloaded/blob/main/GoogleAR.png" />
+
 Lorem .
 
 
