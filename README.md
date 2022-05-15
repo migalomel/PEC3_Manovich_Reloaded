@@ -33,6 +33,8 @@ Voy a intentar explicarlo a través de dos ejemplos que utilizan la realidad aum
 
 Chromville es un programa educativo basado en las clásicas láminas para colorear. Podemos acudir a su sitio principal https://chromville.com, donde podemos seleccionar decenas de ellas, que ilustran escenas infantiles con los personajes creados por la marca. Estas láminas podemos imprimirlas para después pintarlas con lápices de colores.
 
+<img src="https://github.com/migalomel/PEC3_Manovich_Reloaded/blob/main/lana.png" />
+
 Todas ellas tienen en una de sus esquinas un logo, ¿para que sirve este logo?. Con nuestro teléfono inteligente o tableta podemos descargar una app que es capaz, entre otras cosas, de reconocer este logo y escanear el contenido coloreado de dicha lámina, con ayuda de la cámara de nuestro dispositivo. Pasados unos segundos en nuestra pantalla aparecerá una imágen virtual en 3D de realidad aumentada, que recreará el modelo en 2D, con los mismos trazos y colores que le hemos dado en la lámina.
 
 <img src="https://github.com/migalomel/PEC3_Manovich_Reloaded/blob/main/FredTumbado.png" />
