@@ -1,6 +1,6 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
-### Chromeville y AR de Google 
+### Chromeville y Modelos AR de Google 
 
 
 Autor: Miguel Alonso
@@ -27,7 +27,7 @@ Es decir, anteriormente en el metamedio ordenador podían coexistir programas co
 Voy a intentar explicarlo a través de dos ejemplos que utilizan la realidad aumentada como base: El programa educativo Chromville y la experiencia de la realidad aumentada de Google.
 
 
-## Re-descubriendo la hibridacion: Chromville
+## Re-descubriendo la hibridación: Chromville
 
 <img src="https://github.com/migalomel/PEC3_Manovich_Reloaded/blob/main/LogoChromvilleApp.png" />
 
@@ -50,7 +50,7 @@ Chromville es un claro ejemplo de la hibridación apuntada por Manovich, en una 
 
 
 
-## Re-descubriendo la hibridacion: Realidad Aumentada de Google
+## Re-descubriendo la hibridación: Modelos AR de Google
 
 <img src="https://github.com/migalomel/PEC3_Manovich_Reloaded/blob/main/GoogleAR.png" />
 
