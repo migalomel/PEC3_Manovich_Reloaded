@@ -25,10 +25,10 @@ Una vez los ordenadores se transformaron en cómodas casas donde habitaban un si
 
 Es decir, anteriormente en el metamedio ordenador podían coexistir programas con disciplinas, lenguajes y orígenes distintos que aunque agrupados en un mismo medio, mantenían su independencia. La hibridación ha mezclado muchos de ellos dando como resultado otros nuevos.
 
-Voy a intentar explicarlo a través de dos ejemplos que utilizan la realidad aumentada como base: El programa educativo Chromeville y la experiencia de la realidad aumentada de Google.
+Voy a intentar explicarlo a través de dos ejemplos que utilizan la realidad aumentada como base: El programa educativo Chromville y la experiencia de la realidad aumentada de Google.
 
 
-## Re-descubriendo la hibridacion: Chromeville
+## Re-descubriendo la hibridacion: Chromville
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
