@@ -50,7 +50,15 @@ Chromville es un claro ejemplo de la hibridación apuntada por Manovich, en una 
 
 <img src="https://github.com/migalomel/PEC3_Manovich_Reloaded/blob/main/GoogleAR.png" />
 
-Lorem .
+Google no dejará nunca de sorprenderme. Una de las pocas cosas buenas que ha traido la pandemia ha sido la capacidad que hemos tenido todos para reflexionar y reinventarnos. Google no ha sido menos.
+
+Si ponemos la palabra tigre en el buscador de Google con nuestro móvil o tableta encontraremos en primer lugar su denominación científica en latín "Panthera tigris", a continuación una tira de fotografías estupendas de dicho animal y después de una entrada para Wikipedia donde trata también del tema, aparece un recuadro en blanco con un modelo en 3D de un tigre y un icono con el símbolo del cubo en 3d, que tras pulsarlo nos da la oportunidad de "Ver en tu espacio" el modelo 3D de Realidad Aumentada de un tigre.
+
+Tras dar permiso a la aplicación para que acceda a nuestra cámara, nos dará instrucciones para hacer un barrido del lugar donde nos encontremos, con el que la aplicación tomará las dimensiones para calcular el tamaño que dará al modelo en 3D para ajustarlo, a escala, en el mismo sitio donde estemos.
+
+En ese momento a través de nuestro móvil podremos ver al tigre en nuestra habitación, moverlo, cambiarlo de sitio, rodearlo, comparar su tamaño con nuestros propios muebles, hacer un vídeo, hacernos una foto con el e incluso compartirlo en nuestras redes sociales.
+
+Esta aplicación mezcla el vídeo, la fotografía, la realidad aumentada, el dibujo vectorizado, las redes multimedia y el paseo virtual en una experiencia totalmente nueva con la que podemos interactuar con unos cuantos pellizcos en la pantalla. 
 
 
 ### Referencias y Bibliografía
