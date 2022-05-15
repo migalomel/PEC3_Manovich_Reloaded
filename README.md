@@ -8,7 +8,7 @@ Autor: Miguel Alonso
 
 Fecha: 7 de Mayo de 2022
 
-![Cultura Digital](https://pasteboard.co/KuROPCBr48jt.png) 
+!(https://pasteboard.co/KuROPCBr48jt.png) 
 
 
 ## Planteamiento
