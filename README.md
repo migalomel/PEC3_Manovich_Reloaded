@@ -35,9 +35,13 @@ Chromville es un programa educativo basado en las clásicas láminas para colore
 
 Todas ellas tienen en una de sus esquinas un logo, ¿para que sirve este logo?. Con nuestro teléfono inteligente o tableta podemos descargar una app que es capaz, entre otras cosas, de reconocer este logo y escanear el contenido coloreado de dicha lámina, con ayuda de la cámara de nuestro dispositivo. Pasados unos segundos en nuestra pantalla aparecerá una imágen virtual en 3D de realidad aumentada, que recreará el modelo en 2D, con los mismos trazos y colores que le hemos dado en la lámina.
 
+<img src="https://github.com/migalomel/PEC3_Manovich_Reloaded/blob/main/FredTumbado.png" />
+
 Estos modelos 3D pueden ser impresos con una impresora 3D para luego colorearlos con témperas.
 
 Chromville tiene cuatro grandes divisiones según temas: Chromville Visual Arts, Barcy, Science y Bottle Flip Countries. Con estas cuatro áreas principales intenta enseñar y concienciar a los más pequeños, a saber: música, naturaleza, corporal-cinestésica, visual-espacial, lógico-matemática, verbal-lingüística, interpersonal e intrapersonal a través del conocimiento del medio social con visual arts, natural en costas y ríos, con su vida animal, cuidado del agua y deportes acuáticos con Barcy, científico con el estudio del cuerpo humano, los seres vivos, laboratorio de experimentos y planeta tierra con Science y por último geografía con el juego de Bottle Flip.
+
+<img src="https://github.com/migalomel/PEC3_Manovich_Reloaded/blob/main/bottleflip.png" />
 
 Todas las áreas tienen funcionalidades similares con la ayuda de los dispositivos móviles. Todas ellas a parte de generar un modelo 3D que se puede voltear y girar con los colores que dimos en la lámina, también generan secuencias de vídeo con los objetos 3D en una pequeña animación y también tienen juegos en los que intervienen estos personajes. 
 
@@ -54,11 +58,15 @@ Google no dejará nunca de sorprenderme. Una de las pocas cosas buenas que ha tr
 
 Si ponemos la palabra tigre en el buscador de Google con nuestro móvil o tableta encontraremos en primer lugar su denominación científica en latín "Panthera tigris", a continuación una tira de fotografías estupendas de dicho animal y después de una entrada para Wikipedia donde trata también del tema, aparece un recuadro en blanco con un modelo en 3D de un tigre y un icono con el símbolo del cubo en 3d, que tras pulsarlo nos da la oportunidad de "Ver en tu espacio" el modelo 3D de Realidad Aumentada de un tigre.
 
+<img src="https://github.com/migalomel/PEC3_Manovich_Reloaded/blob/main/tigre.jpg" />
+
 Tras dar permiso a la aplicación para que acceda a nuestra cámara, nos dará instrucciones para hacer un barrido del lugar donde nos encontremos, con el que la aplicación tomará las dimensiones para calcular el tamaño que dará al modelo en 3D para ajustarlo, a escala, en el mismo sitio donde estemos.
 
 En ese momento a través de nuestro móvil podremos ver al tigre en nuestra habitación, moverlo, cambiarlo de sitio, rodearlo, comparar su tamaño con nuestros propios muebles, hacer un vídeo, hacernos una foto con el e incluso compartirlo en nuestras redes sociales.
 
 Una vez dentro de la aplicación podemos acceder a más animales.
+
+<img src="https://github.com/migalomel/PEC3_Manovich_Reloaded/blob/main/tiburon.jpg" />
 
 No sólo funciona con el tigre, también podemos ver águila, alligator, caballo, cabra, gato, guepardo, labrador, leon (habrá que acompañarlo de la palabra animal), lobo, erizo, oso, oso panda, pug, pato, perro, pingüino, poni, pulpo, rottweiler, serpiente, tiburón, tortuga y akita.
 
