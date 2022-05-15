@@ -23,14 +23,18 @@ Según palabras de Lev Manovich, cito textualmente:
 
 Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos. Y esto es exactamente lo que ha venido sucediendo en esta nueva etapa de evolución de los medios. Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios."
 
+Es decir, anteriormente en el metamedio ordenador podían coexistir programas con disciplinas, lenguajes y orígenes distintos que aunque agrupados en un mismo medio, mantenían su independencia. La hibridación ha mezclado muchos de ellos dando como resultado otros nuevos.
 
-## Re-descubriendo la hibridacion: Caso 1
+Voy a intentar explicarlo a través de dos ejemplos que utilizan la realidad aumentada como base: El programa educativo Chromeville y la experiencia de la realidad aumentada de Google.
+
+
+## Re-descubriendo la hibridacion: Chromeville
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 
-## Re-descubriendo la hibridacion: Caso 2
+## Re-descubriendo la hibridacion: Realidad Aumentada de Google
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
