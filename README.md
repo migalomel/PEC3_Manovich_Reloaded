@@ -58,12 +58,24 @@ Tras dar permiso a la aplicación para que acceda a nuestra cámara, nos dará i
 
 En ese momento a través de nuestro móvil podremos ver al tigre en nuestra habitación, moverlo, cambiarlo de sitio, rodearlo, comparar su tamaño con nuestros propios muebles, hacer un vídeo, hacernos una foto con el e incluso compartirlo en nuestras redes sociales.
 
+Una vez dentro de la aplicación podemos acceder a más animales.
+
+No sólo funciona con el tigre, también podemos ver águila, alligator, caballo, cabra, gato, guepardo, labrador, leon (habrá que acompañarlo de la palabra animal), lobo, erizo, oso, oso panda, pug, pato, perro, pingüino, poni, pulpo, rottweiler, serpiente, tiburón, tortuga y akita.
+
+Pero también podemos ver más de 90 monumentos en realidad aumentada de la misma forma: Abadía de Westminster, Abadía del Mont-Saint-Michel, La Alhambra, Basílica de Nuestra Señora de Guadalupe, etc.
+
 Esta aplicación mezcla el vídeo, la fotografía, la realidad aumentada, el dibujo vectorizado, las redes multimedia y el paseo virtual en una experiencia totalmente nueva con la que podemos interactuar con unos cuantos pellizcos en la pantalla. 
 
 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+
+* Chromville. **Chromville**. https://chromville.com/ 
+
+* Xataka. **Cómo ver los animales 3D de Google**. https://www.xatakamovil.com/tutoriales/como-ver-animales-3d-google-iphone-android-leones-tiburones-tigres-a-traves-camara 
+
+* El País. **98 monumentos que Google ha recreado en AR**. https://cincodias.elpais.com/cincodias/2021/12/01/lifestyle/1638340021_453329.html 
 
 
 ----
