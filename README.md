@@ -8,7 +8,7 @@ Autor: Miguel Alonso
 
 Fecha: 7 de Mayo de 2022
 
-!(https://pasteboard.co/KuROPCBr48jt.png) 
+<img src="https://pasteboard.co/KuROPCBr48jt.png" /> 
 
 
 ## Planteamiento
