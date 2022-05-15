@@ -1,6 +1,6 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
-### Chromeville y Animales AR de Google 
+### Chromeville y AR de Google 
 
 
 Autor: Miguel Alonso
