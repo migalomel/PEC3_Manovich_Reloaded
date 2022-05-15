@@ -8,8 +8,7 @@ Autor: Miguel Alonso
 
 Fecha: 7 de Mayo de 2022
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
-<img>
+![Cultura Digital](https://pasteboard.co/KuROPCBr48jt.png) 
 
 
 ## Planteamiento
@@ -30,13 +29,15 @@ Voy a intentar explicarlo a través de dos ejemplos que utilizan la realidad aum
 
 ## Re-descubriendo la hibridacion: Chromville
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Chromville es un programa educativo basado en las clásicas láminas para colorear. Podemos acudir a su sitio principal https://chromville.com, donde podemos seleccionar decenas de ellas, que ilustran escenas infantiles con los personajes creados por la marca. Estas láminas podemos imprimirlas para después pintarlas con lápices de colores.
+
+Todas ellas tienen en una de sus esquinas un logo, ¿para que sirve este logo?. Con nuestro teléfono inteligente o tableta podemos descargar una app que es capaz, entre otras cosas, de reconocer este logo y escanear el contenido coloreado de dicha lámina, con ayuda de la cámara de nuestro dispositivo. Pasados unos segundos en nuestra pantalla aparecerá una imágen virtual en 3D de realidad aumentada, que recreará el modelo en 2D, con los mismos trazos y colores que le hemos dado en la lámina.
 
 
 
 ## Re-descubriendo la hibridacion: Realidad Aumentada de Google
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem .
 
 
 ### Referencias y Bibliografía
