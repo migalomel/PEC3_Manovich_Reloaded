@@ -47,6 +47,8 @@ Chromville tiene cuatro grandes divisiones según temas: Chromville Visual Arts,
 
 Todas las áreas tienen funcionalidades similares con la ayuda de los dispositivos móviles. Todas ellas a parte de generar un modelo 3D que se puede voltear y girar con los colores que dimos en la lámina, también generan secuencias de vídeo con los objetos 3D en una pequeña animación y también tienen juegos en los que intervienen estos personajes. 
 
+<img src="https://github.com/migalomel/PEC3_Manovich_Reloaded/blob/main/Free_Christmas_Pack_Card.jpg" />
+
 Chromville es un claro ejemplo de la hibridación apuntada por Manovich, en una aplicación informática para colorear en una lámina 2D, cuyo dibujo se convierte en un modelo de tres dimensiones con los colores y trazos creados por el niño con el que puede interactuar con su dispositivo móvil y puede descubrir a su vez las partes del cuerpo humano cambiando la vista del modelo 3D (huesos, músculos, piel...). La aplicación también permite sacar instatáneas de sus modelos y sin salir de la aplicación compartirla con otros niños a través de las redes sociales y compartir el juego con otros niños con su dispositivo.
 
 
