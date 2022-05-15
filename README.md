@@ -35,6 +35,15 @@ Chromville es un programa educativo basado en las clásicas láminas para colore
 
 Todas ellas tienen en una de sus esquinas un logo, ¿para que sirve este logo?. Con nuestro teléfono inteligente o tableta podemos descargar una app que es capaz, entre otras cosas, de reconocer este logo y escanear el contenido coloreado de dicha lámina, con ayuda de la cámara de nuestro dispositivo. Pasados unos segundos en nuestra pantalla aparecerá una imágen virtual en 3D de realidad aumentada, que recreará el modelo en 2D, con los mismos trazos y colores que le hemos dado en la lámina.
 
+Estos modelos 3D pueden ser impresos con una impresora 3D para luego colorearlos con témperas.
+
+Chromville tiene cuatro grandes divisiones según temas: Chromville Visual Arts, Barcy, Science y Bottle Flip Countries. Con estas cuatro áreas principales intenta enseñar y concienciar a los más pequeños, a saber: música, naturaleza, corporal-cinestésica, visual-espacial, lógico-matemática, verbal-lingüística, interpersonal e intrapersonal a través del conocimiento del medio social con visual arts, natural en costas y ríos, con su vida animal, cuidado del agua y deportes acuáticos con Barcy, científico con el estudio del cuerpo humano, los seres vivos, laboratorio de experimentos y planeta tierra con Science y por último geografía con el juego de Bottle Flip.
+
+Todas las áreas tienen funcionalidades similares con la ayuda de los dispositivos móviles. Todas ellas a parte de generar un modelo 3D que se puede voltear y girar con los colores que dimos en la lámina, también generan secuencias de vídeo con los objetos 3D en una pequeña animación y también tienen juegos en los que intervienen estos personajes. 
+
+Chromville es un claro ejemplo de la hibridación apuntada por Manovich, en una aplicación informática para colorear en una lámina 2D, cuyo dibujo se convierte en un modelo de tres dimensiones con los colores y trazos creados por el niño con el que puede interactuar con su dispositivo móvil y puede descubrir a su vez las partes del cuerpo humano cambiando la vista del modelo 3D (huesos, músculos, piel...). La aplicación también permite sacar instatáneas de sus modelos y sin salir de la aplicación compartirla con otros niños a través de las redes sociales y compartir el juego con otros niños con su dispositivo.
+
+
 
 
 ## Re-descubriendo la hibridacion: Realidad Aumentada de Google
